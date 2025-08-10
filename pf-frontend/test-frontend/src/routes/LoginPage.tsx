@@ -60,7 +60,7 @@ const LoginPage: React.FC = () => {
       
       <div className="bg-[#E4DBF7] font-[Montserrat] min-h-screen flex items-center justify-center">
         <div className="bg-white w-70 p-5 rounded-xl shadow-md space-y-4 text-center">
-          <h2 className="text-lg font-bold text-[#252525]">Welcome Back!</h2>
+          <h2 className="text-lg font-bold text-[#171717]">Welcome Back!</h2>
 
           <form onSubmit={onSubmit} className="space-y-4 text-left">
             <div>
