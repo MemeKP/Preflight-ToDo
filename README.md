@@ -14,8 +14,9 @@ This project was developed as part of 261497 to demonstrate full-stack developme
 ---
 
 ## Tech Stack
-**Frontend:** React, Tailwind, Vite  
-**Backend:** Node.js, Express, Typescript, JWT 
-**Database:** PostgreSQL (via Drizzle ORM)  
-**Testing:** Cypress, Postman
-**Deployment:** Docker Compose
+**- Frontend:** React, Tailwind, Vite
+**- Backend:** Node.js, Express, Typescript, JWT
+**- Database:** PostgreSQL (via Drizzle ORM)
+**- Testing:** Cypress, Postman
+**- Deployment:** Docker Compose
+
